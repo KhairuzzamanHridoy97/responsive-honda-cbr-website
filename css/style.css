@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-header{
+    background: #264653;
+}
+
+.btn-purchase{
+    background-color: #E76F51;
+}
+
+.text-bike-collection{
+    color:#E76F51;
+    /* font-size: 20px; */
+}
+
+.user-3{
+    height: 149px;
+    width: 149px;
+    border-radius: 50%;
+}
+
+.clientsays{
+    color: #E76F51;
+}
+
+.icons{
+    color: #E76F51;
+}
+
+.text-user-name{
+    color: #23A6F0;
+}
+
+.text-footer{
+    font-size: small;
+}
+
+.upcoming-bike{
+    width: 472px;
+    height: 367px;
+}
